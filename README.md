@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, sou a Camila! Prazer em recebê-lo aqui 👋
 
-<!--
-**camilafagundes/camilafagundes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ **Estudante de Segurança da Informação & ADS** | **Entusiasta de Tecnologia, Educação e Inovação**
 
-Here are some ideas to get you started:
+Desde criança fazia planos para "dominar o mundo" e me vi realizada através da inovação tecnológica e em oportunidades de ensino, compartilhando conhecimento em desenvolvimento pessoal e em novas ferramentas tecnológicas. 💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏢 **Atuação Profissional**
+- 🚀 **Desenvolvedora Low-Code** no time de **Inovação** do Sistema FIEP, auxiliando projetos de impacto na área de **Eletrônica, Química, Física e Biologia**.
+- 🎓 **Graduação em Segurança da Informação** no [SENAC](https://www.sp.senac.br/), onde aprofundo meus conhecimentos sobre proteger redes, dispositivos, aplicativos, sistemas e dados de ameaças cibernéticas.
+- 🎓 **Graduação em Análise e Desenvolvimento de Sistemas** na [UESB](https://www.uesb.br/), onde aprofundo meus estudos sobre desenvolvimento e gestão de sistemas computacionais.
+
+## 📱 **Especialidades**
+- Desenvolvedor **LOW-CODE**, com experiência em **PowerApps** e **Ferramentas Microsoft**.
+- Experiência com **HTML**, **CSS** e **boas práticas de desenvolvimento**.
+
+## 🚀 **O que me motiva:**
+- Criar soluções tecnológicas inovadoras para impactar a vida de milhares de pessoas.
+- Estudar e aplicar **Inteligência Artificial** em projetos para aumentar sua produtividade.
+
+## 📊 **Estatísticas no GitHub**
+
+![camilafagundes's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilafagundes&show_icons=true&theme=dark)
+
+## 📌 **Projetos em Destaque**
+
+[![Readme Card]
+
+## 🚀 **Linguagens Mais Usadas**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilafagundes&layout=compact&theme=dark)
