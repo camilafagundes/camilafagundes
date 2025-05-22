@@ -12,6 +12,9 @@ Desde criança fazia planos para "dominar o mundo" e me vi realizada através da
 ## 📱 **Especialidades**
 - Desenvolvedor **LOW-CODE**, com experiência em **PowerApps** e **Ferramentas Microsoft**.
 - Experiência com **HTML**, **CSS** e **boas práticas de desenvolvimento**.
+- Conhecimento em **ferramentas de versionamento (GIT, etc)**.
+- Conhecimento em **metodologias ágeis**.
+- Noções de design **responsivo e acessibilidade**.
 
 ## 🚀 **O que me motiva:**
 - Criar soluções tecnológicas inovadoras para impactar a vida de milhares de pessoas.
@@ -23,7 +26,7 @@ Desde criança fazia planos para "dominar o mundo" e me vi realizada através da
 
 ## 📌 **Projetos em Destaque**
 
-[![Readme Card]
+![Portfólio Interativo](https://github.com/camilafagundes/PortfolioProz.git)
 
 ## 🚀 **Linguagens Mais Usadas**
 
