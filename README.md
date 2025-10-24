@@ -22,7 +22,7 @@ Desde criança fazia planos para "dominar o mundo" e me vi realizada através da
 
 ## 📊 **Estatísticas no GitHub**
 
-![camilafagundes's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilafagundes&show_icons=true&theme=dark)
+![camilafagundes's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilafagundes&show_icons=true&theme=github_dark)
 
 ## 📌 **Projetos em Destaque**
 
@@ -30,6 +30,10 @@ Desde criança fazia planos para "dominar o mundo" e me vi realizada através da
 
 ## 🚀 **Linguagens Mais Usadas**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilafagundes&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilafagundes&layout=compact&theme=github_dark)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+## 💡 **Inspiração**
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
