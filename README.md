@@ -32,13 +32,4 @@ Desde criança fazia planos para "dominar o mundo" e me vi realizada através da
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilafagundes&layout=compact&theme=dark)
 
-### 🐍 Minhas cobrinhas das contribuições
-
-Versão azul (redonda):  
-![Snake Blue](https://github.com/camilafagundes/camilafagundes/blob/output/github-contribution-grid-snake-blue-round.svg)
-
-Versão roxa (quadrada):  
-![Snake Purple](https://github.com/camilafagundes/camilafagundes/blob/output/github-contribution-grid-snake-purple-square.svg)
-
-Versão verde (redonda):  
-![Snake Green](https://github.com/camilafagundes/camilafagundes/blob/output/github-contribution-grid-snake-green-round.svg)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
